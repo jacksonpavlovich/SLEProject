@@ -1,0 +1,12 @@
+.navbar {
+  position:fixed;
+}
+
+.thumbnail img {
+    height:600px;
+    width:90%;
+}
+
+img.animation:hover {
+    height: 400px;
+    width: 350px;
